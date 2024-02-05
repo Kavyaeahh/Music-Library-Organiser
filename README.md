@@ -1,0 +1,1 @@
+This project is implemented using Swing framework along with MySQL connectivity. Users can play, pause, resume and stop the song. Playlists can also be created according to user's choice and can be viewed by them.
